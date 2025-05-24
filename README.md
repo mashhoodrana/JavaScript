@@ -1,2 +1,2 @@
 # JavaScript
-This is repo for Javascript series
+This repo is for Javascript series
